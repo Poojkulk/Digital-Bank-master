@@ -6,7 +6,7 @@
 	<groupId>io.demo</groupId>
 	<artifactId>digitalbank</artifactId>
 	<version>1.0.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>Digital Bank</name>
 	<description>Digital Online Banking Sample Application</description>
